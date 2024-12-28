@@ -9,8 +9,9 @@ Data Version Control (DVC) is an open-source tool that helps you manage and vers
 To use the datasets in this project with DVC, follow these steps:
 1. Clone the repository:
 git clone https://github.com/melatdest/AlphaCare-Insurance-Solutions-ACIS-.git
-cd AiML_ACIS-insurance-solutions
-2. Install the project dependencies:
+
+
+3. Install the project dependencies:
 
 pip install -r requirements.txt
 
