@@ -13,9 +13,11 @@ cd AiML_ACIS-insurance-solutions
 2. Install the project dependencies:
 
 pip install -r requirements.txt
+
 3. Initialize DVC in your project directory
 dvc init
-4. Set up a DVC remote storage. For example, to use a remote storage location, run:
+
+5. Set up a DVC remote storage. For example, to use a remote storage location, run:
 dvc remote add -d remote_name storage_location
-5. Pull the data from the remote storage:
+6. Pull the data from the remote storage:
 dvc pull
